@@ -1,2 +1,2 @@
 # HPChelloworld
-A collection of parallised helloworld programs in C and Rust
+A collection of parallelised helloworld programs in C and Rust
